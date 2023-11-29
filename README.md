@@ -12,7 +12,7 @@ Project composed with aid from tutorial ["Football Data Analytics | Azure End To
 
 ### Azure Synapse Processing
 
-![azure_synapse](assets/wikipedia_synapse.png)
+![azure_synapse](assets/wikipedia_azure_synapse.png)
 
 ### Tableau Visualization
 
