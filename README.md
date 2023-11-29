@@ -1,1 +1,1 @@
-# -wikipedia_soccer_stadium_data_project
+# wikipedia_soccer_stadium_data_project
